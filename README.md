@@ -6,7 +6,7 @@
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ...
 
-<h2 align="left">¡Hola 👋! Mi nombre es ... y soy un/a ..., desde ....</h2>
+<h2 align="left">¡Hola 👋! Mi nombre es Joleyby y soy un futuro desarrollador de software.</h2>
 
 ###
 
